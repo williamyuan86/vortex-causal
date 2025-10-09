@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu   # or faiss-gpu if you want GPU index
+transformers
+torch
+scikit-optimize  # if you want bayes opt later
+matplotlib
+optuna
+aiohttp
