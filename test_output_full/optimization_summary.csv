@@ -1,0 +1,4 @@
+iteration,SHD,AUPR,edges_pred,F1,config_changes,timestamps
+1,inf,0.0,0,0.0,Evaluation failed: index 6 is out of bounds for axis 1 with size 6,2025-10-19T23:59:08.119414
+2,inf,0.0,0,0.0,Evaluation failed: index 6 is out of bounds for axis 1 with size 6,2025-10-19T23:59:08.180625
+3,inf,0.0,0,0.0,Evaluation failed: index 6 is out of bounds for axis 1 with size 6,2025-10-19T23:59:08.223531

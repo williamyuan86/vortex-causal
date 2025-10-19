@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(python -m pytest:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(conda:*)",
+      "Bash(where:*)",
+      "Bash(vortex_envScriptsactivate:*)",
+      "Bash(cmd:*)",
+      "Bash(gh pr:*)",
+      "Bash(cp:*)",
+      "Bash(dir srcautoeval)",
+      "Bash(vortex_env/Scripts/python.exe:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

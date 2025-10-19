@@ -1,0 +1,18 @@
+{
+  "selector": {
+    "thresh_hard": 0.9,
+    "thresh_ambiguous": 0.4
+  },
+  "graph": {
+    "lambda1": 0.1,
+    "max_iter": 100,
+    "lr": 0.01
+  },
+  "fusion": {
+    "lam_soft": 1.0,
+    "conflict_resolution": "hard_wins"
+  },
+  "effects": {
+    "method": "all"
+  }
+}

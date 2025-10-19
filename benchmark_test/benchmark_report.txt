@@ -1,0 +1,33 @@
+================================================================================
+CAUSAL DISCOVERY BENCHMARK REPORT
+================================================================================
+
+## SUMMARY STATISTICS
+Number of methods evaluated: 2
+
+## KEY PERFORMANCE METRICS
+     method  graph_f1_score  graph_shd
+   baseline             0.0         10
+constrained             0.0         10
+
+## BEST PERFORMING METHODS
+Best F1 Score: baseline (0.0000)
+Lowest SHD: baseline (10)
+
+## DETAILED METRICS
+
+### baseline
+F1 Score: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+SHD: 10
+True Edges: 10
+Estimated Edges: 0
+
+### constrained
+F1 Score: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+SHD: 10
+True Edges: 10
+Estimated Edges: 0

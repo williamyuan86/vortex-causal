@@ -1,0 +1,111 @@
+[
+  {
+    "iteration": 1,
+    "timestamp": "2025-10-19T23:59:08.119407",
+    "metrics": {
+      "SHD": Infinity,
+      "AUPR": 0.0,
+      "F1": 0.0,
+      "edges_pred": 0,
+      "hard_edges": 0,
+      "ambiguous_edges": 0,
+      "error": "index 6 is out of bounds for axis 1 with size 6"
+    },
+    "config": {
+      "selector": {
+        "thresh_hard": 0.9,
+        "thresh_ambiguous": 0.4
+      },
+      "graph": {
+        "lambda1": 0.1,
+        "max_iter": 100,
+        "lr": 0.01
+      },
+      "fusion": {
+        "lam_soft": 1.0,
+        "conflict_resolution": "hard_wins"
+      },
+      "effects": {
+        "method": "all"
+      }
+    },
+    "config_changes": "Evaluation failed: index 6 is out of bounds for axis 1 with size 6",
+    "delta": {}
+  },
+  {
+    "iteration": 2,
+    "timestamp": "2025-10-19T23:59:08.180616",
+    "metrics": {
+      "SHD": Infinity,
+      "AUPR": 0.0,
+      "F1": 0.0,
+      "edges_pred": 0,
+      "hard_edges": 0,
+      "ambiguous_edges": 0,
+      "error": "index 6 is out of bounds for axis 1 with size 6"
+    },
+    "config": {
+      "selector": {
+        "thresh_hard": 0.9,
+        "thresh_ambiguous": 0.4
+      },
+      "graph": {
+        "lambda1": 0.1,
+        "max_iter": 100,
+        "lr": 0.01
+      },
+      "fusion": {
+        "lam_soft": 1.0,
+        "conflict_resolution": "hard_wins"
+      },
+      "effects": {
+        "method": "all"
+      }
+    },
+    "config_changes": "Evaluation failed: index 6 is out of bounds for axis 1 with size 6",
+    "delta": {
+      "\ufffdSHD": NaN,
+      "\ufffdAUPR": 0.0,
+      "\ufffdF1": 0.0,
+      "\ufffdedges": 0
+    }
+  },
+  {
+    "iteration": 3,
+    "timestamp": "2025-10-19T23:59:08.223523",
+    "metrics": {
+      "SHD": Infinity,
+      "AUPR": 0.0,
+      "F1": 0.0,
+      "edges_pred": 0,
+      "hard_edges": 0,
+      "ambiguous_edges": 0,
+      "error": "index 6 is out of bounds for axis 1 with size 6"
+    },
+    "config": {
+      "selector": {
+        "thresh_hard": 0.9,
+        "thresh_ambiguous": 0.4
+      },
+      "graph": {
+        "lambda1": 0.1,
+        "max_iter": 100,
+        "lr": 0.01
+      },
+      "fusion": {
+        "lam_soft": 1.0,
+        "conflict_resolution": "hard_wins"
+      },
+      "effects": {
+        "method": "all"
+      }
+    },
+    "config_changes": "Evaluation failed: index 6 is out of bounds for axis 1 with size 6",
+    "delta": {
+      "\ufffdSHD": NaN,
+      "\ufffdAUPR": 0.0,
+      "\ufffdF1": 0.0,
+      "\ufffdedges": 0
+    }
+  }
+]

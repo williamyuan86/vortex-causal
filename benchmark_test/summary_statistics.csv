@@ -1,0 +1,5 @@
+,graph_f1_score,graph_f1_score,graph_precision,graph_precision,graph_recall,graph_recall,graph_shd,graph_shd,runtime,runtime
+,mean,std,mean,std,mean,std,mean,std,mean,std
+method,,,,,,,,,,
+baseline,0.0,,0.0,,0.0,,10.0,,3.7834,
+constrained,0.0,,0.0,,0.0,,10.0,,3.7834,
