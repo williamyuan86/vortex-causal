@@ -12,7 +12,9 @@
       "Bash(gh pr:*)",
       "Bash(cp:*)",
       "Bash(dir srcautoeval)",
-      "Bash(vortex_env/Scripts/python.exe:*)"
+      "Bash(vortex_env/Scripts/python.exe:*)",
+      "Bash(dir:*)",
+      "Bash(\"vortex_env\\Scripts\\activate\")"
     ],
     "deny": [],
     "ask": []
